@@ -1,0 +1,5 @@
+﻿  test.cpp
+d:\code\c_plus_plus_learn\bookstore\bookstore\test.cpp(12): error C2065: “a”: 未声明的标识符
+d:\code\c_plus_plus_learn\bookstore\bookstore\test.cpp(13): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+d:\code\c_plus_plus_learn\bookstore\bookstore\test.cpp(14): error C2061: 语法错误: 标识符“a”
+d:\code\c_plus_plus_learn\bookstore\bookstore\test.cpp(14): error C2310: catch 处理程序必须指定一种类型
