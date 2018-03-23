@@ -34,10 +34,10 @@
 //
 //		return 0;  // indicate success
 //	}
-//	else {  // transactions weren't for the same ISBN
+//	else {  // transactions weren't for the same ISBNm
 //		std::cerr << "Data must refer to the same ISBN"
 //			<< std::endl;
 //		return -1; // indicate failure
-//	}
+//	}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 //}
 //

@@ -1,0 +1,4 @@
+﻿  TCP_Server.cpp
+d:\code\c_plus_plus_learn\socket\server\server\tcp_server.cpp(66): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\code\c_plus_plus_learn\socket\server\server\tcp_server.cpp(69): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Server.vcxproj -> D:\Code\C_Plus_Plus_Learn\Socket\Server\x64\Debug\Server.exe

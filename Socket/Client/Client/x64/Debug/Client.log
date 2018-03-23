@@ -1,0 +1,4 @@
+﻿  TCP_Client.cpp
+d:\code\c_plus_plus_learn\socket\client\client\tcp_client.cpp(45): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\code\c_plus_plus_learn\socket\client\client\tcp_client.cpp(48): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Client.vcxproj -> D:\Code\C_Plus_Plus_Learn\Socket\Client\x64\Debug\Client.exe

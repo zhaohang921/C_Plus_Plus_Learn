@@ -3,18 +3,19 @@
 #include"test.h"
 #include<string>
 #include<vector>
+#include<forward_list>
+#include<functional>
+
 using namespace std;
 int main()
 {
-	int i;
-	try {
-		i = 0;
-		throw(a)
-	}
-	catch (a) {
+	forward_list<int> a;
+	
+	std::placeholder
 
-	}
-	 
+
+
+
 	system("pause");
 	return 0;
 }
